@@ -1,0 +1,7 @@
+address: https://test-stand.gb.ru
+sleep_time: 1
+browser: chrome
+##browser: firefox
+implicitly_wait: 3
+login: Sem92115
+password: 94dde20d03
